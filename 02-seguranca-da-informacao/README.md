@@ -1,7 +1,8 @@
 # Information Security
 
-A segurança da informação não se resume apenas aos equipamentos e tecnologias como firewalls, IP’s e proxies; mas sim, em como a proteção da informação contra ameaças é direcionada. Ademais, com o objetivo de garantir a continuidade de um negócio, ou ainda ser entendida como a preservação da confidencialidade, integridade e disponibilidade da informação. Essa tríade retrata, por sua vez, os pilares básicos da segurança da informação, referenciadas como CID.
-
+<p align="justify">
+&emsp;&emsp;A segurança da informação não se resume apenas aos equipamentos e tecnologias como firewalls, IP’s e proxies; mas sim, em como a proteção da informação contra ameaças é direcionada. Ademais, com o objetivo de garantir a continuidade de um negócio, ou ainda ser entendida como a preservação da confidencialidade, integridade e disponibilidade da informação. Essa tríade retrata, por sua vez, os pilares básicos da segurança da informação, referenciadas como CID.
+</p>
 
 
 - **Certificado Digital**: identidade digital da pessoa física ou jurídica no meio eletrônico, garantindo a autenticidade, confidencialidade, integridade e não repúdio das operações, assegurando a validade jurídica e permitindo que serviços sejam realizados sem a necessidade de presença física.
@@ -10,7 +11,9 @@ A segurança da informação não se resume apenas aos equipamentos e tecnologia
 
 ## ROSI (Return on Security Investment)
 
-Como uma resposta às questões financeiras essenciais sobre os tópicos abaixo, o Retorno Sobre Investimento em Segurança da Informação se mostra essencial para a minimização de riscos aos quais os ativos da organização possam vir a ser expostos, calculando-se quanto de perda poderá ser evitada para o negócio.
+<p align="justify">
+&emsp;&emsp;Como uma resposta às questões financeiras essenciais sobre os tópicos abaixo, o Retorno Sobre Investimento em Segurança da Informação se mostra essencial para a minimização de riscos aos quais os ativos da organização possam vir a ser expostos, calculando-se quanto de perda poderá ser evitada para o negócio.
+</p>
 
 - Os impactos financeiros com a falta de segurança sobre a produtividade;
 - Pagamento ou gasto ideal por segurança;
@@ -21,14 +24,16 @@ Como uma resposta às questões financeiras essenciais sobre os tópicos abaixo,
 
 ## Princípios da Segurança da Informação
 
-O sistema de Administração dos recursos de Tecnologia da Informação - SISP, do poder executivo Federal, dentre outras reconhecidas instituições, coloca como estratégias:
-
+<p align="justify">
+&emsp;&emsp;O sistema de Administração dos recursos de Tecnologia da Informação - SISP, do poder executivo Federal, dentre outras reconhecidas instituições, coloca como estratégias:
+</p>
 
 
 ### Privilégios Mínimos
 
-Usuários devem ter privilégios para uso de recursos informáticos limitados ao mínimo necessário para o pleno desempenho de suas funções.
-
+<p align="justify">
+&emsp;&emsp;Usuários devem ter privilégios para uso de recursos informáticos limitados ao mínimo necessário para o pleno desempenho de suas funções.
+</p>
 
 
 ### Defesa em Profundidade
@@ -44,27 +49,37 @@ Um exemplo, da camada mais externa para a mais interna, seria:
 
 ### Elo Mais Fraco
 
-Encadeamento de estratégias de forma a dificultar o acesso e a sobreposição aos pontos mais vulneráveis dos sistemas de proteção com soluções simples, como: implementação de VPN, credenciais fortes e bloqueio com limite de tentativa, de modo que o atacante recorra às técnicas de engenharia social ao invés de ataques diretos.
+<p align="justify">
+&emsp;&emsp;Encadeamento de estratégias de forma a dificultar o acesso e a sobreposição aos pontos mais vulneráveis dos sistemas de proteção com soluções simples, como: implementação de VPN, credenciais fortes e bloqueio com limite de tentativa, de modo que o atacante recorra às técnicas de engenharia social ao invés de ataques diretos.
+</p>
 
 ### Ponto de Verificação
 
-Quando toda e qualquer topologia apresenta um conjunto de equipamentos passantes por um único ponto de troca de tráfego entre rede "confiável" e "não confiável" e todo esse tráfego pode ser inspecionado e submetido às políticas de segurança configuradas, de forma a minimizar o comprometimento aos pilares da segurança da informação.
+<p align="justify">
+&emsp;&emsp;Quando toda e qualquer topologia apresenta um conjunto de equipamentos passantes por um único ponto de troca de tráfego entre rede "confiável" e "não confiável" e todo esse tráfego pode ser inspecionado e submetido às políticas de segurança configuradas, de forma a minimizar o comprometimento aos pilares da segurança da informação.
+</p>
 
 ### Segurança por Obscuridade
 
-É um sistema ou prática de segurança muito frágil, porque consiste simplesmente na dependência do segredo do projeto ou implementação como garantias.
+<p align="justify">
+&emsp;&emsp;É um sistema ou prática de segurança muito frágil, porque consiste simplesmente na dependência do segredo do projeto ou implementação como garantias.
 
-Um exemplo para esse princípio é: a segurança de um aplicativo recair sobre o segredo do seu código-fonte. Porém, como é muito fraca essa prática, manter apenas o código em segredo não é suficiente, agregá-la às demais permitirá que a segurança não recaia sobre o mesmo.
+&emsp;&emsp;Um exemplo para esse princípio é: a segurança de um aplicativo recair sobre o segredo do seu código-fonte. Porém, como é muito fraca essa prática, manter apenas o código em segredo não é suficiente, agregá-la às demais permitirá que a segurança não recaia sobre o mesmo.
+</p>
 
 ### Princípio da Simplicidade
 
-Referenciado como o princípio do beijo (KISS), ele aborda práticas de engenharia de software que privilegiam abordagens simples e inteligentes.
+<p align="justify">
+&emsp;&emsp;Referenciado como o princípio do beijo (KISS), ele aborda práticas de engenharia de software que privilegiam abordagens simples e inteligentes.
 
 Quanto maior a complexidade de um código, maior tende a ser a dificuldade de auditoria, manutenção e identificação de falhas, aumentando a probabilidade de vulnerabilidades. Administradores são movidos por resultados, muitas vezes em tempo ágil, acarretando em inserções e testes frenéticos de novas regras sem o devido critério.
+</p>
 
 ### Segregação de Funções
 
-Controle clássico para a resolução de conflitos de interesse e prevenção de fraudes mediante a restrição dos poderes de cada indivíduo e à criação de barreiras, fazendo com que mais de um indivíduo seja necessário para concluir uma tarefa.
+<p align="justify">
+&emsp;&emsp;Controle clássico para a resolução de conflitos de interesse e prevenção de fraudes mediante a restrição dos poderes de cada indivíduo e à criação de barreiras, fazendo com que mais de um indivíduo seja necessário para concluir uma tarefa.
+</p>
 
 ---
 
